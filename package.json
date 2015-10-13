@@ -1,0 +1,10 @@
+{
+  "name": "jspm-link-test",
+  "version" : "0.0.1",
+  "jspm": {
+    "registry": "github",
+    "directories": {
+      "lib": "lib/"
+    }
+  }
+}
